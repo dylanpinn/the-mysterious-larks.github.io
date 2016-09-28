@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mysterious Larks</title>
-    <link>https://the-mysterious-larks.github.io/</link>
+    <link>https://the-mysterious-larks.github.io/index.xml</link>
     <description>Recent content on The Mysterious Larks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
