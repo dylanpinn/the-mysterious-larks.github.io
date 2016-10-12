@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Mysterious Larks</title>
-    <link>https://the-mysterious-larks.github.io/</link>
+    <link>https://the-mysterious-larks.github.io/index.xml</link>
     <description>Recent content on The Mysterious Larks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
@@ -10,22 +10,22 @@
     <atom:link href="https://the-mysterious-larks.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Resource 1</title>
-      <link>https://the-mysterious-larks.github.io/post/resource-1/</link>
-      <pubDate>Wed, 28 Sep 2016 22:03:02 +1000</pubDate>
-      
-      <guid>https://the-mysterious-larks.github.io/post/resource-1/</guid>
-      <description>&lt;p&gt;This is a test resource.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resource 2</title>
+      <title>Barriers to Adopting Technology for Teaching and Learning</title>
       <link>https://the-mysterious-larks.github.io/post/resource-2/</link>
       <pubDate>Wed, 28 Sep 2016 22:03:02 +1000</pubDate>
       
       <guid>https://the-mysterious-larks.github.io/post/resource-2/</guid>
-      <description>&lt;p&gt;This is a test resource.&lt;/p&gt;
+      <description>&lt;p&gt;This is a study done over a decade ago on how the learning environment changed as new technology was rolled in. While it is a bit dated, the points relevant to our topic are still valid today. It discusses how the learning curve can slow things down and how failure of systems is a major problem in getting things done.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical Barriers to Communication</title>
+      <link>https://the-mysterious-larks.github.io/post/resource-1/</link>
+      <pubDate>Wed, 28 Sep 2016 22:03:02 +1000</pubDate>
+      
+      <guid>https://the-mysterious-larks.github.io/post/resource-1/</guid>
+      <description>&lt;p&gt;This article discusses the communication challenges faced by a wide range of industries brought on by globalization. It is not specific to technological barriers but it is a good place to start to have a general understanding of the issues faced.&lt;/p&gt;
 </description>
     </item>
     
